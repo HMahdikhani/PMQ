@@ -1,0 +1,11 @@
+Compile -->>>
+
+javac -classpath ".:jpbc-plaf-2.0.0.jar:jpbc-api-2.0.0.jar"  PMQGUI.java -Xlint
+
+
+
+
+
+
+Run -->>>
+java -classpath ".:jpbc-plaf-2.0.0.jar:jpbc-api-2.0.0.jar"  PMQGUI
